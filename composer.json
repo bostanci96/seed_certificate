@@ -1,0 +1,8 @@
+{
+    "psr-4":{
+        "admin/": "admin"
+    },
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
